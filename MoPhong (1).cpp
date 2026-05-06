@@ -12,7 +12,7 @@ public:
         So = 0;
         Chat = 0;
     }
-    // Constructor khởi tạo lá bài với số và chất cụ thể
+    //khởi tạo lá bài với số và chất cụ thể
     Pocket(int So, int Chat) {
         this->So = So;
         this->Chat = Chat;
